@@ -17,6 +17,8 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 dependencies=[
+    "manim",
+    "allan-variance",
     "kwanmath @ git+ssh://git@github.com/kwan3217/kwanmath.git",
 ]
 
