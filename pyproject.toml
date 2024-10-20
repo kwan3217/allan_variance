@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "allan_variance"
+name = "allan_video"
 version = "0.1.0"
 authors = [
   { name="kwan3217", email="kwan3217@gmail.com" },

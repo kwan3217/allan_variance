@@ -1,2 +1,2 @@
-# allan_variance
+# allan_video
 Allan variance video
